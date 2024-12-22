@@ -1,0 +1,39 @@
+
+  body {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: grey;
+    color: cornsilk;
+    text-align: center;
+    font-style: italic;
+    font-size: 20px;
+    border: 10px;
+    border-bottom: 10px;
+    text-decoration:double 1px;
+  }
+  head {
+    padding: 20px;
+    margin: 20px;
+    color: black;
+  }
+  button{
+    color:grey;
+    background-color:azure;
+    padding: 10px;
+    margin: 10px;
+  }
+  img{
+    padding: 50px;
+    margin: 50px
+  }
+  nav{
+    background-color: black;
+    color: darkgrey;
+  }
+  
+  
+  
+  
+  
+  
+
+  
